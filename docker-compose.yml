@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+
+  node:
+    image: node:9.11.1
+    working_dir: /dist
+    volumes:
+      - ./:/dist
+    command: ["npm", "run", "build"]
+

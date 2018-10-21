@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="28" viewBox="0 0 114 28">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="113" height="27" x=".5" y=".5" stroke="#000" rx="3"/>
+        <g fill="#000">
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(10)">
+                <tspan x="79.474" y="18">17</tspan>
+            </text>
+            <path d="M78 0h1v28h-1z"/>
+            <path fill-rule="nonzero" d="M18.053 8.667C13.556 8.667 10.89 14 10.89 14s2.667 5.333 7.164 5.333c4.391 0 7.058-5.333 7.058-5.333s-2.667-5.333-7.058-5.333zM18 17.556A3.555 3.555 0 0 1 14.444 14c0-1.956 1.6-3.556 3.556-3.556 1.973 0 3.556 1.6 3.556 3.556A3.543 3.543 0 0 1 18 17.556zM19.778 14c0 .987-.791 1.778-1.778 1.778A1.772 1.772 0 0 1 16.222 14c0-.987.791-1.778 1.778-1.778s1.778.791 1.778 1.778z"/>
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(10 6)">
+                <tspan x="22" y="12">watch</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="195px" viewBox="0 0 401 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>pixel_black_hor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="190.153846" height="400" rx="18.4800004"></rect>
+    </defs>
+    <g id="pixel_black_hor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android" transform="translate(0.000000, 1.000000)">
+            <g id="Group" transform="translate(200.500000, 97.000000) rotate(-90.000000) translate(-200.500000, -97.000000) translate(104.000000, -103.000000)">
+                <path d="M178.771127,116.795069 L202.767334,116.795069 C203.448117,116.795069 204,117.346953 204,118.027735 L204,118.027735 C204,118.708517 203.448117,119.260401 202.767334,119.260401 L178.771127,119.260401 C178.090345,119.260401 177.538462,118.708517 177.538462,118.027735 L177.538462,118.027735 C177.538462,117.346953 178.090345,116.795069 178.771127,116.795069 Z" id="Rectangle-2-Copy-4" stroke="#000000" stroke-width="0.616000012" transform="translate(190.769231, 118.027735) rotate(90.000000) translate(-190.769231, -118.027735) "></path>
+                <path d="M164.924973,191.063174 L216.613488,191.063174 C217.294271,191.063174 217.846154,191.615057 217.846154,192.29584 L217.846154,192.29584 C217.846154,192.976622 217.294271,193.528505 216.613488,193.528505 L164.924973,193.528505 C164.244191,193.528505 163.692308,192.976622 163.692308,192.29584 L163.692308,192.29584 C163.692308,191.615057 164.244191,191.063174 164.924973,191.063174 Z" id="Rectangle-2-Copy-5" stroke="#000000" stroke-width="0.616000012" transform="translate(190.769231, 192.295840) rotate(90.000000) translate(-190.769231, -192.295840) "></path>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="0.699999988" x="0.349999994" y="0.349999994" width="189.453846" height="399.3" rx="18.4800004"></rect>
+                </g>
+                <rect id="Rectangle-4" stroke="#000000" stroke-width="0.699999988" x="10" y="47" width="171.692308" height="305.701079"></rect>
+                <rect id="Rectangle-2" stroke="#000000" stroke-width="0.699999988" x="89.8461538" y="8.93682589" width="10.7692308" height="3.69799692" rx="1.84899846"></rect>
+                <rect id="Rectangle-2-Copy-6" stroke="#000000" stroke-width="0.699999988" x="59.3846154" y="21.2634823" width="71.6923077" height="3.69799692" rx="1.84899846"></rect>
+                <rect id="Rectangle-2-Copy-7" stroke="#000000" stroke-width="0.699999988" x="59.3846154" y="376.579353" width="71.6923077" height="3.69799692" rx="1.84899846"></rect>
+                <ellipse id="Oval-2" stroke="#000000" stroke-width="0.699999988" cx="43.2307692" cy="23.7288136" rx="3.69230769" ry="3.69799692"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

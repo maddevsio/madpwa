@@ -1,0 +1,80 @@
+@import "normalizeCss";
+
+// #region Colors
+$accent: #ff005b;
+$pColor: #000; // paragraph color
+$hColor: #000; // title color
+
+// Coubs color
+$colour1: #ff005b;
+$colour2: #00dbfc;
+$colour3: #2af598;
+$colour4: #9013fe;
+$colour5: #ff5600;
+
+// #endregion
+
+// #region Fonts
+@font-face {
+    font-family: 'Gerbera-Light';
+    src: url('../fonts/Gerbera-Light.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Gerbera-Medium';
+    src: url('../fonts/Gerbera-Medium.otf') format('truetype');
+}
+@font-face {
+    font-family: 'Gerbera';
+    src: url('../fonts/Gerbera.otf') format('truetype');
+}
+@font-face {
+    font-family: 'IBMPlexMono-SemiBold';
+    src: url('../fonts/IBMPlexMono-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'IBMPlexMono-Regular';
+    src: url('../fonts/IBMPlexMono-Regular.ttf') format('truetype');
+}
+// #endregion
+* {
+    outline: none !important;
+}
+body {
+    min-width: 320px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $hColor;
+}
+
+.section-title {
+    width: 100%;
+    font-size: 54px;
+    color: $hColor;
+    text-align: center;
+    line-height: normal;
+    font-family: 'Gerbera-Medium', sans-serif;
+    font-weight: normal;
+}
+
+.container-wrap {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 992px) {
+  .container-wrap {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container-wrap {
+    max-width: 1140px;
+  }
+}

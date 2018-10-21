@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="195px" viewBox="0 0 401 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>iphone_black_hor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1.29521597" y="0" width="189.409568" height="400" rx="18.4800001"></rect>
+    </defs>
+    <g id="iphone_black_hor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iphone" transform="translate(0.000000, 2.000000)">
+            <g id="Group" transform="translate(200.000000, 96.000000) rotate(-90.000000) translate(-200.000000, -96.000000) translate(104.000000, -104.000000)">
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="0.699999988" x="1.64521596" y="0.349999994" width="188.709568" height="399.3" rx="18.4800001"></rect>
+                </g>
+                <ellipse id="Oval" stroke="#000000" stroke-width="0.699999988" cx="96" cy="376.579353" rx="13.4854709" ry="13.559322"></ellipse>
+                <rect id="Rectangle-2" stroke="#000000" stroke-width="0.699999988" x="84.659945" y="16.194226" width="22.6801101" height="3.0816641" rx="1.54083205"></rect>
+                <rect id="Rectangle-2-Copy" stroke="#000000" stroke-width="0.699999988" transform="translate(0.988728, 54.853621) rotate(90.000000) translate(-0.988728, -54.853621) " x="-6.93644732" y="54.2791217" width="15.8503506" height="1.14899847" rx="0.574499236"></rect>
+                <path d="M-12.4917076,97.4224191 C-12.8089947,97.4224191 -13.0662068,97.6796312 -13.0662068,97.9969183 C-13.0662068,98.3142055 -12.8089947,98.5714176 -12.4917076,98.5714176 L14.4691636,98.5714176 C14.7864507,98.5714176 15.0436628,98.3142055 15.0436628,97.9969183 C15.0436628,97.6796312 14.7864507,97.4224191 14.4691636,97.4224191 L-12.4917076,97.4224191 Z" id="Rectangle-2-Copy-2" stroke="#000000" stroke-width="0.699999988" transform="translate(0.988728, 97.996918) rotate(90.000000) translate(-0.988728, -97.996918) "></path>
+                <path d="M-12.4917076,132.55339 C-12.8089947,132.55339 -13.0662068,132.810602 -13.0662068,133.127889 C-13.0662068,133.445176 -12.8089947,133.702388 -12.4917076,133.702388 L14.4691636,133.702388 C14.7864507,133.702388 15.0436628,133.445176 15.0436628,133.127889 C15.0436628,132.810602 14.7864507,132.55339 14.4691636,132.55339 L-12.4917076,132.55339 Z" id="Rectangle-2-Copy-3" stroke="#000000" stroke-width="0.699999988" transform="translate(0.988728, 133.127889) rotate(90.000000) translate(-0.988728, -133.127889) "></path>
+                <path d="M177.530836,97.1142527 C177.213549,97.1142527 176.956337,97.3714648 176.956337,97.6887519 C176.956337,98.0060391 177.213549,98.2632512 177.530836,98.2632512 L204.491708,98.2632512 C204.808995,98.2632512 205.066207,98.0060391 205.066207,97.6887519 C205.066207,97.3714648 204.808995,97.1142527 204.491708,97.1142527 L177.530836,97.1142527 Z" id="Rectangle-2-Copy-4" stroke="#000000" stroke-width="0.699999988" transform="translate(191.011272, 97.688752) rotate(90.000000) translate(-191.011272, -97.688752) "></path>
+                <rect id="Rectangle-3" stroke="#000000" stroke-width="0.699999988" x="8" y="33" width="177.150049" height="316.795069"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

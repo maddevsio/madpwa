@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="28" viewBox="0 0 118 28">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="117" height="27" x=".5" y=".5" stroke="#000" rx="3"/>
+        <g fill="#000">
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(10.35)">
+                <tspan x="78.996" y="18">272</tspan>
+            </text>
+            <path d="M80.755 0h1v28h-1z"/>
+            <path fill-rule="nonzero" d="M24.854 12.222l-4.356-.569-1.866-3.875-1.867 3.875-4.356.57 3.2 2.897-.826 4.213 3.849-2.07 3.848 2.07-.826-4.213z"/>
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(10.35 6)">
+                <tspan x="22.772" y="12">stars</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

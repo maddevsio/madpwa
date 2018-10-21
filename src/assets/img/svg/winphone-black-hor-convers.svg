@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401" height="195" viewBox="0 0 401 195">
+    <defs>
+        <rect id="a" width="190" height="400" x="105.5" y="-101.803" rx="3.5"/>
+        <linearGradient id="b" x1="98.054%" x2="0%" y1="68.841%" y2="68.841%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="14.785%" stop-color="#FF005B"/>
+            <stop offset="100%" stop-color="#FF005B"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#000" stroke-width=".7" d="M49.568 1.11h23.987a1.233 1.233 0 1 1 0 2.465H49.568a1.233 1.233 0 0 1 0-2.465zM88.104 1.11h23.987a1.233 1.233 0 1 1 0 2.465H88.104a1.233 1.233 0 0 1 0-2.465zM120.528 192.732h51.669a1.233 1.233 0 1 1 0 2.465h-51.669a1.233 1.233 0 0 1 0-2.465z"/>
+        <g transform="rotate(-90 200.5 98.197)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <rect width="189.3" height="399.3" x="105.85" y="-101.453" stroke="#000" stroke-width=".7" rx="3.5"/>
+        </g>
+        <rect width="7.677" height="7.707" x="373.54" y="94.146" stroke="#000" stroke-width=".7" rx="1.54" transform="rotate(-90 377.379 98)"/>
+        <path stroke="#000" stroke-width=".7" d="M47.5 183.5V11.871h305.701v171.63z"/>
+        <g stroke="#000" stroke-width=".7" transform="rotate(-90 72.706 51.397)">
+            <rect width="29.173" height="4.624" x="11.516" rx="2.312"/>
+            <ellipse cx="2.303" cy="2.312" rx="2.303" ry="2.312"/>
+        </g>
+        <g stroke-width=".911">
+            <path stroke="#D6D6D6" d="M100.398 178.873V16M148.965 178.873V16M197.135 178.873V16"/>
+            <path stroke="#FFEA69" stroke-dasharray="9.113636363636363,9.113636363636363" d="M245.702 178.873V16"/>
+            <path stroke="#D6D6D6" d="M293.871 178.873V16M342.901 178.873V16"/>
+        </g>
+        <g stroke="#D6D6D6" stroke-width=".911">
+            <path d="M349.664 178.61H52.384V16M349.664 146.398H52.384M349.664 105.398H52.384M349.664 64.398H52.384M349.664 23.123H52.384"/>
+        </g>
+        <path stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.823" d="M53 172l35.671-17.94 45.64 10.963 45.84-34.684 46.038 19.734 46.038-44.85 46.039-31.495L341.5 24.5"/>
+        <g transform="translate(221 31)">
+            <rect width="50" height="26" fill="#FFEA69" rx="8.202"/>
+            <g fill="#222" fill-rule="nonzero">
+                <path d="M34.753 17.787l1.037-2.786h2.994l-1.421-4.226L39.14 6l5.09 14.359h-3.754l-.87-2.572zM31.09 20.359L36.785 6H33.01l-3.895 9.28L26.345 6h-2.9l-2.974 9.28-2.097-4.23-1.897 5.946 1.926 3.363h3.715l2.687-8.321 2.562 8.321zM10.612 15.43h2.344c.71 0 1.343-.08 1.897-.24l.606-1.884 1.695-5.264a4.203 4.203 0 0 0-.443-.585C15.841 6.486 14.57 6 12.893 6H7v14.359h3.612v-4.93zm3.103-6.127c.34.345.51.807.51 1.385 0 .583-.15 1.045-.449 1.386-.327.38-.93.57-1.81.57h-1.354V8.786h1.365c.819 0 1.398.173 1.738.517z"/>
+            </g>
+        </g>
+    </g>
+</svg>

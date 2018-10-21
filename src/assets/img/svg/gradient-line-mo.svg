@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="354px" viewBox="0 0 18 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>gradient-line-mo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="62.6753807%" y1="0%" x2="62.6753807%" y2="99.6104923%" id="linearGradient-1">
+            <stop stop-color="#9013FE" offset="0%"></stop>
+            <stop stop-color="#2AF598" offset="14.3289379%"></stop>
+            <stop stop-color="#00DBFC" offset="28.4591763%"></stop>
+            <stop stop-color="#806CAB" offset="42.6908653%"></stop>
+            <stop stop-color="#FF005B" offset="57.0147515%"></stop>
+            <stop stop-color="#FF7F00" offset="85.6010658%"></stop>
+            <stop stop-color="#C54782" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="gradient-line-mo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="7" y="8" width="2" height="337"></rect>
+            <g id="Stacked-Group-2">
+                <g id="Group" transform="translate(0.000000, 288.000000)">
+                    <circle id="Oval-2" stroke="#FE7E00" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#FE7E00" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 336.000000)">
+                    <circle id="Oval-2" stroke="#C54782" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#C54782" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group">
+                    <circle id="Oval-2" stroke="#8F12FC" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#8E12FD" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 240.000000)">
+                    <circle id="Oval-2" stroke="#FF3F2D" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#FF3F2D" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 192.000000)">
+                    <circle id="Oval-2" stroke="#FE015B" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#FE015B" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 144.000000)">
+                    <circle id="Oval-2" stroke="#806CAB" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#806CAB" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 48.000000)">
+                    <circle id="Oval-2" stroke="#29F398" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#29F398" cx="8" cy="8" r="5"></circle>
+                </g>
+                <g id="Group" transform="translate(0.000000, 96.000000)">
+                    <circle id="Oval-2" stroke="#00DAFB" cx="8" cy="8" r="8"></circle>
+                    <circle id="Oval-2-Copy" fill="#00DAFB" cx="8" cy="8" r="5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

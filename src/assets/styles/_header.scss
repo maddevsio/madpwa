@@ -1,0 +1,74 @@
+header {
+    height: 80px;
+    .header-items {
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .logo {
+            img {
+                width: 120px;
+                height: 20px;
+            }
+        }
+        .list-link {
+            a {
+                font-size: 14px;
+                margin-left: 40px;
+                color: #333;
+                text-decoration: none;
+                padding: 32px 0;
+                font-family: 'Gerbera', sans-serif;
+                span {
+                    color: $accent;
+                }
+            }
+        }
+        .menu-btn {
+            display: none;
+            z-index: 11;
+        }
+    }
+}
+.close-movile-menu {
+    position: fixed;
+    top: 30px;
+    right: 18px;
+}
+.mobile-menu {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 10;
+    &_list-link {
+        height: 100%;
+        display: flex !important;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        a {
+            margin: 0 !important;
+            padding: 16px !important;
+            font-size: 20px !important;
+        }
+    }
+}
+
+.header-link-angular {
+    text-transform: capitalize;
+}
+.header-link-react {
+    text-transform: capitalize;
+}
+.header-link-vue {
+    text-transform: capitalize;
+}
+.header-link-wordpress {
+    text-transform: capitalize;
+}
+.header-link-workbox {
+    text-transform: capitalize;
+}

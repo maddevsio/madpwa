@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401" height="195" viewBox="0 0 401 195">
+    <defs>
+        <rect id="a" width="190.154" height="400" rx="18.48"/>
+        <linearGradient id="b" x1="6.735%" x2="92.809%" y1="100%" y2="100%">
+            <stop offset="0%" stop-color="#FF005B"/>
+            <stop offset="23.118%" stop-color="#FFEA69"/>
+            <stop offset="49.989%" stop-color="#FFEA69"/>
+            <stop offset="77.017%" stop-color="#FFEA69"/>
+            <stop offset="100%" stop-color="#2AF598"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="rotate(-90 97.5 97)">
+            <path stroke="#000" stroke-width=".616" d="M192.002 106.03v23.996a1.233 1.233 0 1 1-2.465 0V106.03a1.233 1.233 0 0 1 2.465 0zM192.002 166.452v51.688a1.233 1.233 0 1 1-2.465 0v-51.688a1.233 1.233 0 0 1 2.465 0z"/>
+            <use fill="#FFF" xlink:href="#a"/>
+            <rect width="189.454" height="399.3" x=".35" y=".35" stroke="#000" stroke-width=".7" rx="18.48"/>
+            <path stroke="#000" stroke-width=".7" d="M10 47h171.692v305.701H10z"/>
+            <rect width="10.769" height="3.698" x="89.846" y="8.937" stroke="#000" stroke-width=".7" rx="1.849"/>
+            <rect width="71.692" height="3.698" x="59.385" y="21.263" stroke="#000" stroke-width=".7" rx="1.849"/>
+            <rect width="71.692" height="3.698" x="59.385" y="376.579" stroke="#000" stroke-width=".7" rx="1.849"/>
+            <ellipse cx="43.231" cy="23.729" stroke="#000" stroke-width=".7" rx="3.692" ry="3.698"/>
+        </g>
+        <path stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.6" d="M112.307 90C117.206 81.251 120 71.15 120 60.393 120 27.039 93.137 0 60 0S0 27.039 0 60.393c0 10.71 2.77 20.769 7.628 29.49" transform="translate(140 54)"/>
+        <path fill="#333" d="M196.003 121.657c2.298.836 15.396 3.433 39.294 7.79a1.4 1.4 0 0 0 .944-2.594c-21.107-12.025-32.81-18.455-35.108-19.291-3.816-1.39-8.058.64-9.475 4.532-1.416 3.893.529 8.174 4.345 9.563z"/>
+    </g>
+</svg>

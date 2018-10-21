@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="28" viewBox="0 0 108 28">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="107" height="27" x=".5" y=".5" stroke="#000" rx="3"/>
+        <g fill="#000">
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(8.474)">
+                <tspan x="75.922" y="18">34</tspan>
+            </text>
+            <path d="M73.869 0h1v28h-1z"/>
+            <path fill-rule="nonzero" d="M19.72 7.778a1.772 1.772 0 0 0-.89 3.306v1.138L17.053 14l-1.778-1.778v-1.138a1.772 1.772 0 0 0-.889-3.306 1.772 1.772 0 0 0-.889 3.306v1.583l2.667 2.666v1.583a1.772 1.772 0 0 0 .889 3.306 1.772 1.772 0 0 0 .889-3.306v-1.583l2.666-2.666v-1.583a1.772 1.772 0 0 0-.889-3.306zm-5.334 2.844a1.076 1.076 0 0 1-1.067-1.066c0-.578.49-1.067 1.067-1.067.578 0 1.067.489 1.067 1.067 0 .577-.49 1.066-1.067 1.066zm2.667 8.89a1.076 1.076 0 0 1-1.067-1.068c0-.577.489-1.066 1.067-1.066.577 0 1.066.489 1.066 1.066 0 .578-.489 1.067-1.066 1.067zm2.666-8.89a1.076 1.076 0 0 1-1.066-1.066c0-.578.489-1.067 1.066-1.067.578 0 1.067.489 1.067 1.067 0 .577-.489 1.066-1.067 1.066z"/>
+            <text font-family="IBMPlexMono-Medium, IBM Plex Mono" font-size="12" font-weight="400" letter-spacing="-.174" transform="translate(8.474 6)">
+                <tspan x="21.842" y="12">fork</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

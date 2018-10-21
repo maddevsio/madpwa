@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+    <g fill="none" fill-rule="evenodd" transform="translate(1 118)">
+        <rect width="31" height="31" fill="#000" fill-opacity=".16" rx="2"/>
+        <rect width="31" height="31" x="39" fill="#000" fill-opacity=".16" rx="2"/>
+        <rect width="31" height="31" x="78" fill="#FFEA69" rx="2"/>
+        <rect width="31" height="31" x="117" fill="#000" fill-opacity=".16" rx="2"/>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="401" height="195" viewBox="0 0 401 195">
+    <defs>
+        <rect id="a" width="189.41" height="400" x="1.295" rx="18.48"/>
+        <path id="c" d="M30.96 28.8c-.83 0-1.566.5-1.883 1.263a2.04 2.04 0 0 0 .467 2.224l81.04 81.329a2.005 2.005 0 0 0 1.97.556 2.009 2.009 0 0 0 1.448-1.454 2.022 2.022 0 0 0-.554-1.978L32.409 29.412a1.994 1.994 0 0 0-1.448-.612z"/>
+        <filter id="b" width="105.4%" height="111.7%" x="-2.7%" y="-2.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="rotate(-90 97 97)">
+            <use fill="#FFF" xlink:href="#a"/>
+            <rect width="188.71" height="399.3" x="1.645" y=".35" stroke="#000" stroke-width=".7" rx="18.48"/>
+            <ellipse cx="96" cy="376.579" stroke="#000" stroke-width=".7" rx="13.485" ry="13.559"/>
+            <rect width="22.68" height="3.082" x="84.66" y="16.194" stroke="#000" stroke-width=".7" rx="1.541"/>
+            <rect width="15.85" height="1.149" x="-6.936" y="54.279" stroke="#000" stroke-width=".7" rx=".574" transform="rotate(90 .989 54.854)"/>
+            <path stroke="#000" stroke-width=".7" d="M1.563 84.516a.574.574 0 0 0-1.149 0v26.961a.574.574 0 0 0 1.15 0v-26.96zM1.563 119.647a.574.574 0 1 0-1.149 0v26.961a.574.574 0 1 0 1.15 0v-26.96zM191.586 84.208a.574.574 0 0 0-1.15 0v26.961a.574.574 0 0 0 1.15 0V84.21zM8 33h177.15v316.795H8z"/>
+        </g>
+        <path fill="#333" d="M195.743 61.48h26.787v3.294h3.29v15.059h-16.683v3.294h10.104v3.53H205.847v6.588h6.814v6.824h-3.524v-3.53h-3.29v11.765h-3.29v5.176h-3.29v3.294h-3.524V130.186h3.525v3.294H192.453v-10.118h-3.29v-3.294h-3.289v3.294h-3.29v3.294h-3.524v3.53h3.524v3.294h-6.814v-13.412h-2.585v-3.294h-3.994v-3.294h-3.525v-3.53h-3.29v-3.294h-3.29v-20h3.29v6.589h3.525v3.294h3.29v3.53H175.77v-3.53h3.29v-3.294h5.17V89.95h4.934v-3.295h3.29V64.774h3.289V61.48zm4 5.417h2.574v2.578h-2.574v-2.578zm-1.288-1.29v5.157h5.15v-5.156h-5.15z"/>
+        <g fill-rule="nonzero" transform="translate(120 25)">
+            <use fill="#000" filter="url(#b)" xlink:href="#c"/>
+            <use fill="#FF005B" fill-rule="evenodd" xlink:href="#c"/>
+        </g>
+    </g>
+</svg>
